@@ -23,4 +23,4 @@ Chapter 1 of Geron's Hands-On Machine Learning with Scikit-Learn, Keras & Tensor
 - Exercise
 
 ## Example Codes
-- Training and Running a Linear Model Using Scikit-Learn
+- Example 1-1: Training and Running a Linear Model Using Scikit-Learn

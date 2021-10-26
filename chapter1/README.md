@@ -1,4 +1,5 @@
 # Chapter 1: The Machine Learning Landscape 
+Chapter 1 of Geron's Hands-On Machine Learning with Scikit-Learn, Keras & Tensorflow book.
 
 ## Chapter Outline
 - What is Machine Learning?
